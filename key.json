@@ -14,7 +14,7 @@
     {
       "username": "maxx3611",
       "password": "maxx123",
-      "expire_date": "2030-02-23",
+      "expire_date": "2026-02-23",
       "device_limit": 3
     },
     {
@@ -32,11 +32,29 @@
     {
       "username": "mirza",
       "password": "mirza123",
+      "expire_date": "2026-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "irfan",
+      "password": "irfan123",
+      "expire_date": "2026-03-05",
+      "device_limit": 1
+    },
+    {
+      "username": "user12",
+      "password": "pass1",
+      "expire_date": "2026-06-30",
+      "device_limit": 1
+    },
+    {
+      "username": "mirzra",
+      "password": "mirza123",
       "expire_date": "2030-03-25",
       "device_limit": 3
     },
     {
-      "username": "test",
+      "username": "test4",
       "password": "testpass",
       "expire_date": "2025-10-25",
       "device_limit": 1
