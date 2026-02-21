@@ -6,21 +6,21 @@
   },
   "credentials": [
     {
-      "username": "user123",
-      "password": "pass123",
-      "expire_date": "2026-06-30",
+      "username": "kimxavier",
+      "password": "kimxavier123",
+      "expire_date": "2026-03-05",
       "device_limit": 1
     },
     {
-      "username": "vip_user",
-      "password": "vip_password",
-      "expire_date": "2030-01-01",
+      "username": "maxx3611",
+      "password": "maxx123",
+      "expire_date": "2030-02-23",
       "device_limit": 3
     },
     {
-      "username": "testkey",
-      "password": "testpass",
-      "expire_date": "2025-10-25",
+      "username": "Emilov966",
+      "password": "Emilov966",
+      "expire_date": "2025-3-25",
       "device_limit": 1
     },
     {
@@ -30,9 +30,9 @@
       "device_limit": 1
     },
     {
-      "username": "vip_u",
-      "password": "vip_password",
-      "expire_date": "2030-01-01",
+      "username": "mirza",
+      "password": "mirza123",
+      "expire_date": "2030-03-25",
       "device_limit": 3
     },
     {
