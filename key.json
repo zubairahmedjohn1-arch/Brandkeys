@@ -58,6 +58,42 @@
       "password": "testpass",
       "expire_date": "2025-10-25",
       "device_limit": 1
+    },
+    {
+      "username": "zubi",
+      "password": "zubi",
+      "expire_date": "2027-02-22",
+      "device_limit": 100
+    },
+    {
+      "username": "custer4",
+      "password": "customer123",
+      "expire_date": "2030-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "14dykey",
+      "password": "testpass",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
+    },
+    {
+      "username": "firsttrythabuy",
+      "password": "firsttrythanbuy",
+      "expire_date": "2026-02-22",
+      "device_limit": 100
+    },
+    {
+      "username": "custoer4",
+      "password": "customer123",
+      "expire_date": "2030-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "14aykey",
+      "password": "testpass",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
     }
   ]
 }
