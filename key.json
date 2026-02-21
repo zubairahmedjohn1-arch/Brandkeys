@@ -39,7 +39,7 @@
       "username": "irfan",
       "password": "irfan123",
       "expire_date": "2026-03-05",
-      "device_limit": 1
+      "device_limit": 3
     },
     {
       "username": "firsttrythanbuy",
@@ -54,7 +54,7 @@
       "device_limit": 3
     },
     {
-      "username": "test4",
+      "username": "14daykey",
       "password": "testpass",
       "expire_date": "2025-10-25",
       "device_limit": 1
