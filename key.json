@@ -1,4 +1,4 @@
-{
+no{
   "maintenance": {
     "enabled": false,
     "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
@@ -42,10 +42,10 @@
       "device_limit": 1
     },
     {
-      "username": "user12",
-      "password": "pass1",
-      "expire_date": "2026-06-30",
-      "device_limit": 1
+      "username": "firsttrythanbuy",
+      "password": "firsttrythanbuy",
+      "expire_date": "2026-02-22",
+      "device_limit": 100
     },
     {
       "username": "mirzra",
