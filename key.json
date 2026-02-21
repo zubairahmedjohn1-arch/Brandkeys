@@ -63,7 +63,7 @@
       "username": "zubi",
       "password": "zubi",
       "expire_date": "2027-02-22",
-      "device_limit": 100
+      "device_limit": 1
     },
     {
       "username": "custer4",
