@@ -66,9 +66,9 @@
       "device_limit": 1
     },
     {
-      "username": "custer4",
-      "password": "customer123",
-      "expire_date": "2030-03-25",
+      "username": "1daykey",
+      "password": "1daykey",
+      "expire_date": "2026-02-23",
       "device_limit": 3
     },
     {
