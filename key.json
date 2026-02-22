@@ -54,9 +54,9 @@
       "device_limit": 3
     },
     {
-      "username": "14daykey",
-      "password": "testpass",
-      "expire_date": "2025-10-25",
+      "username": "1daykey1",
+      "password": "1daykey1",
+      "expire_date": "2026-02-24",
       "device_limit": 1
     },
     {
