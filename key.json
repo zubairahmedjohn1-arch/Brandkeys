@@ -12,8 +12,8 @@
       "device_limit": 1
     },
     {
-      "username": "maxx3611",
-      "password": "maxx123",
+      "username": "expired",
+      "password": "expired",
       "expire_date": "2026-02-23",
       "device_limit": 3
     },
@@ -54,8 +54,8 @@
       "device_limit": 3
     },
     {
-      "username": "1daykey1",
-      "password": "1daykey1",
+      "username": "expired",
+      "password": "expirre",
       "expire_date": "2026-02-24",
       "device_limit": 1
     },
@@ -78,8 +78,8 @@
       "device_limit": 1
     },
     {
-      "username": "firsttrythabuy",
-      "password": "firsttrythanbuy",
+      "username": "expired",
+      "password": "expired",
       "expire_date": "2026-02-22",
       "device_limit": 100
     },
@@ -90,8 +90,8 @@
       "device_limit": 3
     },
     {
-      "username": "14aykey",
-      "password": "testpass",
+      "username": "expired",
+      "password": "expired",
       "expire_date": "2025-10-25",
       "device_limit": 1
     }
