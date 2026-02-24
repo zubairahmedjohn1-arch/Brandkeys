@@ -12,10 +12,10 @@
       "device_limit": 1
     },
     {
-      "username": "expired",
-      "password": "expired",
-      "expire_date": "2026-02-23",
-      "device_limit": 3
+      "username": "keythxfortrust",
+      "password": "keythxfortrust",
+      "expire_date": "2026-03-23",
+      "device_limit": 1
     },
     {
       "username": "Emilov966",
@@ -27,7 +27,7 @@
       "username": "user1",
       "password": "pass1",
       "expire_date": "2026-06-30",
-      "device_limit": 1
+      "device_limit": 2
     },
     {
       "username": "mirza",
