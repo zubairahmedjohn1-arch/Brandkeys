@@ -72,10 +72,10 @@
       "device_limit": 1
     },
     {
-      "username": "brand7",
-      "password": "brand7",
-      "expire_date": "2026-2-28",
-      "device_limit": 1
+      "username": "@CheaterOnTop",
+      "password": "@CheaterOnTop",
+      "expire_date": "2026-2-27",
+      "device_limit": 50
     },
     {
       "username": "expired",
@@ -86,6 +86,30 @@
     {
       "username": "custoer4",
       "password": "customer123",
+      "expire_date": "2030-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "expired",
+      "password": "expired",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
+    },
+    {
+      "username": "expired",
+      "password": "expired",
+      "expire_date": "2030-03-25",
+      "device_limit": 3
+    },
+    {
+      "username": "expired",
+      "password": "expired",
+      "expire_date": "2025-10-25",
+      "device_limit": 1
+    },
+    {
+      "username": "expired",
+      "password": "expired",
       "expire_date": "2030-03-25",
       "device_limit": 3
     },
